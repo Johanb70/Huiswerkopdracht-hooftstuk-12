@@ -1,0 +1,102 @@
+header{
+      width: 1220px;
+      height: 200px;
+      background-color: grey;
+      color: black;
+      }
+footer{
+      width: 1220px;
+      height: 200px;
+      background-color: silver;
+      color: black;
+      }
+
+#a{color: #000000; background-color: #00ffff;}
+#b{color: #2f4f4f; background-color: #fff0f5;}
+#c{color: #696969; background-color: #fffafa;}
+#d{color: #708090; background-color: #f5fffa;}
+#e{color: #775699; background-color: #f0ffff;}
+#f{color: #a9a9a9; background-color: #f5f5f5;}
+#g{color: #000080; background-color: #ffe4e1;}
+#h{color: #000088; background-color: #fae5d7;}
+
+#een{
+      width: 300px;
+      height: 200px;
+      background-color: #ff00ff;
+      }
+#twee{
+      width: 300px;
+      height: 200px;
+      background-color: #ff0099;
+      }
+#drie{
+      width: 300px;
+      height: 200px;
+      background-color: #ff0033;
+      }
+#vier{
+      width: 300px;
+      height: 200px;
+      background-color: #cc00ff;
+      }
+#vijf{
+      width: 300px;
+      height: 200px;
+      background-color: #cc0099;
+      }
+#zes{
+      width: 300px;
+      height: 200px;
+      background-color: #cc0033;
+      }
+#zeven{
+      width: 300px;
+      height: 200px;
+      background-color: #9900ff;
+      }
+#acht{
+      width: 300px;
+      height: 200px;
+      background-color: #990099;
+      }
+#negen{
+      width: 300px;
+      height: 200px;
+      background-color: #990033;
+      }
+#tien{
+      width: 300px;
+      height: 200px;
+      background-color: #6600ff;
+      }
+#elf{
+      width: 300px;
+      height: 200px;
+      background-color: #660099;
+      }
+#twaalf{
+      width: 300px;
+      height: 200px;
+      background-color: #660033;
+      }
+#dertien{
+      width: 300px;
+      height: 200px;
+      background-color: #3300ff;
+      }
+#veertien{
+      width: 300px;
+      height: 200px;
+      background-color: #330099;
+      }
+#vijftien{
+      width: 300px;
+      height: 200px;
+      background-color: #330033;
+      }
+#zestien{
+      width: 300px;
+      height: 200px;
+      background-color: #0000ff;
+      }
